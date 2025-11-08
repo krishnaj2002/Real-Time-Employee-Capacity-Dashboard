@@ -1,8 +1,5 @@
 # Real-Time-Employee-Capacity-Dashboard
 
-
-# 📊 Real-Time Employee Capacity Dashboard
-
 ## ✅ Overview
 
 The **Real-Time Employee Capacity Dashboard** is a Power BI–based solution designed to optimize employee utilization and resource allocation across departments and projects. Using a **star schema model**, Power Query, and complex **DAX measures**, the dashboard delivers accurate real-time insights to support proactive workforce planning and decision-making.
